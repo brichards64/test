@@ -1,0 +1,6 @@
+language: cpp
+install: true
+script: ./build.sh
+deploy:
+	skip_cleanup: true
+	./main
