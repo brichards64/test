@@ -4,6 +4,6 @@ compiler: g++
 
 install: true
 
-script: ./build.sh
+script: true
 
-deploy: ./main
+deploy: true
