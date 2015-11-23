@@ -1,9 +1,7 @@
 language: cpp
 
-compiler: g++
-
 install: true
 
-script: true
+script: ./build.sh
 
 deploy: true
