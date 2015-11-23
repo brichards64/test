@@ -1,12 +1,9 @@
 language: cpp
 
-compiler:
-  - gcc
+compiler: gcc
 
 install: true
 
 script: ./build.sh
 
-deploy:
-	- skip_cleanup: true
-	- ./main
+deploy: ./main
