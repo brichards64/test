@@ -2,6 +2,6 @@ language: cpp
 
 install: true
 
-script: 
-  ./build.sh;
-   ./main
+script: ./build.sh;
+
+script:   ./main
