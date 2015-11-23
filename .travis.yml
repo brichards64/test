@@ -2,6 +2,6 @@ language: cpp
 
 install: true
 
-script: ./build.sh
-
-deploy: ./main
+script: 
+          ./build.sh
+          ./main
