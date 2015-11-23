@@ -3,5 +3,5 @@ language: cpp
 install: true
 
 script: 
-          ./build.sh
-          ./main
+ - ./build.sh
+  - ./main
