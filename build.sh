@@ -17,5 +17,5 @@ echo `pwd`
 
 git commit -a -m test
 
-git push -f -q https://brichards64:$GITHUB_API_KEY@github.com/brichards64/brichards64.github.io.git   &2>/dev/null
+git push https://brichards64:$GITHUB_API_KEY@github.com/brichards64/brichards64.github.io.git   #&2>/dev/null
 
