@@ -6,7 +6,7 @@ git clone https://github.com/brichards64/brichards64.github.io.git
 
 cd brichards64.github.io/
 
-echo test3 > index.html
+echo test4 > index.html
 
 echo `pwd`
 # cd "$TRAVIS_BUILD_DIR"
@@ -19,7 +19,7 @@ git commit -a -m test
 
 git push https://brichards64:$GITHUB_API_KEY@github.com/brichards64/brichards64.github.io.git > /dev/null 2>/dev/null
 
-sleep 60
+#sleep 60
 
 echo hello
 ##more log
