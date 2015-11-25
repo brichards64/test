@@ -13,6 +13,7 @@ echo `pwd`
 
  git config --global user.email "b.richards@qmul.ac.uk.com"
   git config --global user.name "brichards64"
+  git config --global push.default matching
 
 git commit -a -m test
 
