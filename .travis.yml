@@ -4,4 +4,3 @@ install: true
 
 script: ./build.sh;
 
-script:   ./main
