@@ -8,7 +8,7 @@ cd brichards64.github.io/
 
 echo test2 > index.html
 
- cd "$TRAVIS_BUILD_DIR"
+# cd "$TRAVIS_BUILD_DIR"
 
  git config --global user.email "b.richards@qmul.ac.uk.com"
   git config --global user.name "brichards64"
