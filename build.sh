@@ -6,7 +6,7 @@ git clone https://github.com/brichards64/brichards64.github.io.git
 
 cd brichards64.github.io/
 
-echo test2 > index.html
+echo test3 > index.html
 
 echo `pwd`
 # cd "$TRAVIS_BUILD_DIR"
