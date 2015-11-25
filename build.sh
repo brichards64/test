@@ -19,7 +19,7 @@ git commit -a -m test
 
 git push https://brichards64:$GITHUB_API_KEY@github.com/brichards64/brichards64.github.io.git &>log
 
-sleep(60)
+sleep 60
 
 echo hello
 more log
