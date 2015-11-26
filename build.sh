@@ -2,11 +2,11 @@
 #####work
 g++ main.cpp -o main
 
-git clone https://github.com/brichards64/brichards64.github.io.git
+#git clone https://github.com/brichards64/brichards64.github.io.git
 
 cd brichards64.github.io/
 
-echo test4 > index.html
+echo test5 > index.html
 
 echo `pwd`
 # cd "$TRAVIS_BUILD_DIR"
