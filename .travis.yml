@@ -4,7 +4,7 @@ install: true
 
 cache:
   directories:
-    - $HOME/brichards64.github.io
+    - /home/travis/build/brichards64/test/brichards64.github.io
 
 script: ./build.sh;
 
