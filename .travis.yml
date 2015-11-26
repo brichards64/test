@@ -2,5 +2,9 @@ language: cpp
 
 install: true
 
+cache:
+  directories:
+    - $HOME/brichards64.github.io
+
 script: ./build.sh;
 
