@@ -4,7 +4,7 @@ g++ main.cpp -o main
 ls
 #git clone https://github.com/brichards64/brichards64.github.io.git
 
-cd .cache/brichards64.github.io/
+cd brichards64.github.io/
 
 echo test5 > index.html
 
