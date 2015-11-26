@@ -1,5 +1,8 @@
 #! /usr/bin/env sh
 #####work
+echo BEN START
+echo `pwd`
+
 g++ main.cpp -o main
 ls
 git clone https://github.com/brichards64/brichards64.github.io.git
