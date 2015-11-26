@@ -1,7 +1,7 @@
 #! /usr/bin/env sh
 #####work
 g++ main.cpp -o main
-
+ls
 #git clone https://github.com/brichards64/brichards64.github.io.git
 
 cd brichards64.github.io/
